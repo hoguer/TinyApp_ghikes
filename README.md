@@ -1,26 +1,26 @@
-##OVERVIEW
+## OVERVIEW
 
 Hike the Globe! gHikes is an Android application that shows a list of hikes. Select a hike to see the detail view, with information such as elevation change, driving directions, difficulty, and so on.   
 
-##USAGE
+## USAGE
 
 You can run this project on an emulator or device from Android Studio. 
 
-##RUNNING REQUIREMENTS
+## RUNNING REQUIREMENTS
 
 Application will run on Android 6.0 (Marshmallow) and above.
 
-##LICENSE
+## LICENSE
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-##APP CORE REQUIREMENTS
+## APP CORE REQUIREMENTS
 * Must use at least one image - I changed the icon used to launch the app
 * Must use at least two views - 1) list view of hikes, 2) hike detail view
 * Must use at least two widgets - TextView and RatingBar
 * Must have at least one transition from one screen to another. That is, a single screen app is not acceptable. - transition from list view to hike detail view by clicking on a hike in the list
 
-##WHAT I LEARNED
+## WHAT I LEARNED
 
 1. How to use Image Asset Studio (https://developer.android.com/studio/write/image-asset-studio.html) to create a launch icon. 
 1. strings.xml allows localization for the app.
