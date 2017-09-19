@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:rowCount="10"
+    android:orientation="horizontal"
+    tools:context="com.hoguer.ghikes.HikeDetailActivity">
+
+    <TextView
+        android:id="@+id/hike_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="20dp"
+        android:layout_column="0"
+        android:layout_row="0"
+        android:layout_columnSpan="2"
+        android:textSize="40sp"
+        tools:text="Name" />
+
+    <TextView
+        android:id="@+id/hike_distance_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_column="0"
+        android:layout_columnSpan="1"
+        android:layout_row="1"
+        android:textSize="20sp"
+        tools:text="Distance: " />
+
+    <TextView
+        android:id="@+id/hike_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:layout_columnSpan="1"
+        android:textSize="20sp"
+        tools:text="Distance" />
+
+    <TextView
+        android:id="@+id/hike_elevation_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_column="0"
+        android:layout_row="2"
+        android:layout_columnSpan="1"
+        android:textSize="20sp"
+        tools:text="Elevation: " />
+
+    <TextView
+        android:id="@+id/hike_elevation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_column="1"
+        android:layout_row="2"
+        android:layout_columnSpan="1"
+        android:textSize="20sp"
+        tools:text="Elevation" />
+
+    <TextView
+        android:id="@+id/hike_difficulty_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_column="0"
+        android:layout_row="3"
+        android:layout_columnSpan="1"
+        android:textSize="20sp"
+        tools:text="Difficulty: " />
+
+    <TextView
+        android:id="@+id/hike_difficulty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_column="1"
+        android:layout_row="3"
+        android:layout_columnSpan="1"
+        android:textSize="20sp"
+        tools:text="Difficulty: " />
+
+    <TextView
+        android:id="@+id/hike_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_column="0"
+        android:layout_row="4"
+        android:layout_columnSpan="2"
+        android:textSize="20sp"
+        tools:text="Description" />
+
+    <TextView
+        android:id="@+id/hike_driving_directions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_column="0"
+        android:layout_row="5"
+        android:layout_columnSpan="2"
+        android:textSize="20sp"
+        tools:text="Driving Directions" />
+
+    <RatingBar
+        android:id="@+id/hike_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_column="0"
+        android:layout_row="6"
+        android:layout_columnSpan="2"
+        android:numStars="5" />
+
+</GridLayout>

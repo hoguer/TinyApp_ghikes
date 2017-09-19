@@ -1,0 +1,123 @@
+{
+  "hikes": [
+    {
+      "name": "Triple Tree",
+      "difficulty": 4,
+      "elevationGain": 850.0,
+      "distance": 5.0,
+      "hikingTime": 2.0,
+      "allowedUses": ["Hiking"],
+      "description": "Nice summer evening hike just south of Bozeman with great views of the city and to the west. Bring a flashlight and enjoy the sunset from the bench on top. Lots of different wildlife has been spotted on this trail, include bears.",
+      "drivingDirections": "Take Sourdough road south from Bozeman and the parking lot and trailhead are on the left.",
+      "hikingDirections": "Follow the trail due east and then south into the hills. There is a loop, so you can go up one way and down the other."
+    },
+
+    {
+      "name": "Leverich Canyon",
+      "difficulty": 4,
+      "elevationGain": 1500.0,
+      "distance": 6.0,
+      "hikingTime": 2.0,
+      "allowedUses": ["Hiking", "Biking (mountain)"],
+      "description": "Nice loop just south of Bozeman. Mainly used by mountain bikers.",
+      "drivingDirections": "Take South 3rd ave all the way to the end.",
+      "hikingDirections": "Make sure you go the right direction, which is clockwise. Go left at the fork and then follow up to the top and down the right side. If you are walking it would be best just to do the left side up and back down and avoid the bikers riding down the right side."
+    },
+
+    {
+      "name": "Drinking Horse",
+      "difficulty": 2,
+      "elevationGain": 850.0,
+      "distance": 2.5,
+      "hikingTime": 1.5,
+      "allowedUses": ["Hiking"],
+      "description": "Nice little hike across the street from the M. There is a loop trail.",
+      "drivingDirections": "Follow 86 out of Bozeman towards Bridger Canyon, the parking lot is on the right before you get to the M trail.",
+      "hikingDirections": "The parking lot is on the right side of the road and a little lower than the road. The trail heads to the bottom and through the fish hatchery before heading up."
+    },
+
+    {
+      "name": "Mount Ellis",
+      "difficulty": 6,
+      "elevationGain": 3050.0,
+      "distance": 10.0,
+      "hikingTime": 4.0,
+      "allowedUses": ["Hiking", "Horses", "Biking (mountain)"],
+      "description": "Nice trail to the top of one of the peaks overlooking Bozeman",
+      "drivingDirections": "Follow Bozeman Trail Road east from bozeman (or west from the bear canyon exit of I-90) to Mt Ellis Lane. Park alongside of the road at the end.",
+      "hikingDirections": "Go through the gate into the pasture and follow across to the other side. From there follow the loggin road until the trail takes off to the right in a steep climb."
+    },
+
+    {
+      "name": "Sypes Canyon",
+      "difficulty": 4,
+      "elevationGain": 1775.0,
+      "distance": 6.0,
+      "hikingTime": 2.0,
+      "allowedUses": ["Hiking", "Biking (mountain)"],
+      "description": "Popular trail on the east side of the Bridgers just north of the M. Watch for the bikers on this trail. It can be used as access to Mount Baldy.",
+      "drivingDirections": "Take Spring Hill road north from Bozeman. Turn right onto Sypes Canyon road and follow up to the end. There is a small parking lot at the trailhead and if it is full there is another parking lot back about 1/4 mile. Please do not block the neighbors in.",
+      "hikingDirections": "Follow the trail. At the top it intersects with the Foothills trail, to the right will take you to the M and to the left will take you to Middle Cottonwood."
+    },
+
+    {
+      "name": "Mystic Lake",
+      "difficulty": 5,
+      "elevationGain": 2250.0,
+      "distance": 11.0,
+      "hikingTime": 4.0,
+      "allowedUses": ["Hiking", "Horses", "Biking (mountain)"],
+      "description": "Wander through the valleys and over some of the ridges south of Bozeman",
+      "drivingDirections": "Follow Bear Canyon road south to the end. Bear Canyon road is just off I-90 at the Bear Canyon exit or follow Bozeman Trail road east from Bozeman.",
+      "hikingDirections": "Take the trail on the west side of the parking lot and follow through the canyon"
+    },
+
+    {
+      "name": "Chestnut Ridge",
+      "difficulty": 6,
+      "elevationGain": 3100.0,
+      "distance": 10.0,
+      "hikingTime": 4.0,
+      "allowedUses": ["Hiking", "Horses", "Biking (mountain)"],
+      "description": "This trail was recently created and is very popular with the mountain bikers as you can loop over from Bear Canyon.",
+      "drivingDirections": "Take I-90 to exit 316 and the parking lot is a few hundred yards across the train tracks and up Trail Creek road.",
+      "hikingDirections": "Follow the trail from the parking lot across the creek and up the east side of the ridge. The trail follow the ridge at the top for a good ways before dropping into Bear Canyon."
+    },
+
+    {
+      "name": "Mount Blackmore",
+      "difficulty": 6,
+      "elevationGain": 3600.0,
+      "distance": 12.5,
+      "hikingTime": 5.0,
+      "allowedUses": ["Hiking", "Horses", "Biking (mountain)"],
+      "description": "This is a popular day hike that is quite strenuous. The views from the top of the Bozeman area are quite impressive. The weather on this hike can vary wildly from shorts weather to a blizzard in a matter of a short time. A good pair of binoculars will allow you to locate the mountain goats that will be hangin out on one of the surrounding steep faces.",
+      "drivingDirections": "Follow south 19th from Bozeman around the curve and then left on Hyalite Canyon road. Park when you get to the dam.",
+      "hikingDirections": "The trailhead is on the west side of the large parking lot by the dam. Follow the trail up through the woods, into the valley and then up to the ridge. At the top of the ridge Mount Blackmore is to the right, Elephant mountain to the left and Cottonwood canyon is down the other side of the ridge."
+    },
+
+    {
+      "name": "Truman Gulch",
+      "difficulty": 6,
+      "elevationGain": 2800.0,
+      "distance": 7.0,
+      "hikingTime": 3.0,
+      "allowedUses": ["Hiking", "Horses", "Biking (mountain)"],
+      "description": "Connects to Middle Cottonwood trail.",
+      "drivingDirections": "Take Spring Hill Road north from Bozeman and turn right on Spring Hill Community road and then right on Forswall and follow to the trail head.",
+      "hikingDirections": "Follow the trail up the gulch as far as you want to go."
+    },
+
+    {
+      "name": "Palisade Falls",
+      "difficulty": 1,
+      "elevationGain": 250.0,
+      "distance": 1.0,
+      "hikingTime": 0.5,
+      "allowedUses": ["Hiking"],
+      "description": "Nice post picnic walk for all ages to a pretty water fall.",
+      "drivingDirections": "Take south 19th from Bozeman around the curve and left onto Hyalite Canyon road. At the reservoir follow the road across the dam and at the south end of the reservoir turn left. There is a large parking lot a little further on the left side.",
+      "hikingDirections": "The trail is very well marked and heavily traveled."
+    }
+  ]
+}
